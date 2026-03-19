@@ -1,5 +1,5 @@
 """
-clock.py:Relógio Global, é uma thread separada).
+clock.py:Relógio Global, é uma thread separada.
 """
 import threading, time
 from config import TICK_S
