@@ -1,5 +1,5 @@
 """
-main.py — Ponto de entrada do Simulador de Tráfego
+main.py (precisa dos outros módulos) - Ponto de entrada do Simulador de Tráfego.
 
 Para rodar:
     - Instale o pygame: pip install pygame.
