@@ -1,5 +1,5 @@
 """
-config.py — Constantes, cores, enums e malha viária
+config.py - define Constantes, cores, enums e malha viária
 
 Modelo de vias:
   - TODAS as vias são mão única com LANES=2 faixas lado a lado.
