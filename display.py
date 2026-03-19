@@ -1,5 +1,5 @@
 """
-display.py — Renderização do mapa, vias, semáforos e carros usando Pygame.
+display.py - (Modulei o display) É a parte de Renderização do mapa, vias, semáforos e carros usando Pygame.
 
 Todas as vias são mão única com 2 faixas. O desenho mostra:
   - Via: retângulo com largura ROAD_W (2 faixas);
